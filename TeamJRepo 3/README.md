@@ -1,1 +1,1 @@
-# TheSummarizer game
+# TheSummarizer
