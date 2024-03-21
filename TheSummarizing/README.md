@@ -1,0 +1,3 @@
+# The Summarizer
+
+During my bootcamp at Code For All, I contributed to the creation of "The Summarizing," a group project developed around the 4th week in 10 nights. Implemented purely in Java, the game utilizes the SimpleGraphicsGFX library. My primary focus involved asset creation, game logic and game sound. The game is available for play at https://cabacodeaco.itch.io/the-summarizing and was a collaborative effort by Duarte Baena, Pedro Rodrigues, Miguel Marques, Francisco Preta, and João Cabaço.
